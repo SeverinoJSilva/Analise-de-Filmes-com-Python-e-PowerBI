@@ -11,7 +11,7 @@ um resumo dos dados. Para que o usuário possa obter diversas informações como
 3. Total de homens e mulheres que avaliaram os filmes.
 4. Uma análise dos anos de produção do filmes.
 5. Nota média de avaliação por categoria dos filmes.
-6. Notá média por sexo dos avaliadores.
+6. Nota média por sexo dos avaliadores.
 7. Usuários por sexo e faixa etária.
 8. Total de usuários por Estados.
 9. Cidades dos usuários do movielens que avaliaram os filmes
@@ -41,11 +41,11 @@ Ferramentas utilizadas:
 - Microsoft PowerBI Desktop
 
 Especificação dos arquivos nas pastas:
-0.arquivo_em_processamento - Consta os arquivos jupyter e os arquivos utilizados  para manipulação
-1.arquivo_ml-1m            - Possui os arquivos originais do movielens
-2.arquivo_opendatasoft     - Possui os arquivos originais da opendatasoft
-3.arquivos_criados         - Possui os arquivos coom o resultado da formatação feita no jupyter 
-4.PowerBi                  - Possui uma imagem em pdf do Dashboard finalizado e o relatorio pronto para usar no PowerBI
+0.arquivo_em_processamento - Consta os arquivos jupyter e os arquivos utilizados  para manipulação;
+1.arquivo_ml-1m            - Possui os arquivos originais do movielens;
+2.arquivo_opendatasoft     - Possui os arquivos originais da opendatasoft;
+3.arquivos_criados         - Possui os arquivos coom o resultado da formatação feita no jupyter;
+4.PowerBi                  - Possui uma imagem em pdf do Dashboard finalizado e o relatorio pronto para usar no PowerBI.
 
 
 
